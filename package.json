@@ -6,7 +6,8 @@
     "private": true,
     "dependencies": {
         "request": "2.14.0",
-        "elementtree": "0.1.5"
+        "elementtree": "0.1.5",
+        "rereddit": "0.0.5"
     },
     "scripts": {
         "start": "node app.js"
