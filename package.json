@@ -1,0 +1,17 @@
+{
+    "name": "bingwp7wallserver",
+    "description": "Bing Wallpaper of the day WP7 Server.",
+    "version": "0.0.0",
+    "author": "Travis La Marr <exiva@exiva.net>",
+    "private": true,
+    "dependencies": {
+        "request": "2.14.0",
+        "elementtree": "0.1.5"
+    },
+    "scripts": {
+        "start": "node app.js"
+    },
+    "engines": {
+        "node": "0.8.x"
+    }
+}
